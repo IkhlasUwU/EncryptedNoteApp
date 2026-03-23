@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "QNARlq3lQe0=",
+  "success": true,
+  "projectFilePath": "/home/chooger/Documents/Projects/VSCProjects/C#/NotesApp/NotesApp.csproj",
+  "expectedPackageFiles": [
+    "/home/chooger/.nuget/packages/bouncycastle.cryptography/2.4.0/bouncycastle.cryptography.2.4.0.nupkg.sha512",
+    "/home/chooger/.nuget/packages/microsoft.extensions.configuration/10.0.5/microsoft.extensions.configuration.10.0.5.nupkg.sha512",
+    "/home/chooger/.nuget/packages/microsoft.extensions.configuration.abstractions/10.0.5/microsoft.extensions.configuration.abstractions.10.0.5.nupkg.sha512",
+    "/home/chooger/.nuget/packages/microsoft.extensions.configuration.fileextensions/10.0.5/microsoft.extensions.configuration.fileextensions.10.0.5.nupkg.sha512",
+    "/home/chooger/.nuget/packages/microsoft.extensions.configuration.json/10.0.5/microsoft.extensions.configuration.json.10.0.5.nupkg.sha512",
+    "/home/chooger/.nuget/packages/microsoft.extensions.fileproviders.abstractions/10.0.5/microsoft.extensions.fileproviders.abstractions.10.0.5.nupkg.sha512",
+    "/home/chooger/.nuget/packages/microsoft.extensions.fileproviders.physical/10.0.5/microsoft.extensions.fileproviders.physical.10.0.5.nupkg.sha512",
+    "/home/chooger/.nuget/packages/microsoft.extensions.filesystemglobbing/10.0.5/microsoft.extensions.filesystemglobbing.10.0.5.nupkg.sha512",
+    "/home/chooger/.nuget/packages/microsoft.extensions.primitives/10.0.5/microsoft.extensions.primitives.10.0.5.nupkg.sha512",
+    "/home/chooger/.nuget/packages/pgpcore/7.0.0/pgpcore.7.0.0.nupkg.sha512",
+    "/home/chooger/.nuget/packages/spectre.console/0.54.0/spectre.console.0.54.0.nupkg.sha512",
+    "/home/chooger/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
